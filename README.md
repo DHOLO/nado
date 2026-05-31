@@ -1,2 +1,2 @@
 # nado
-Get the best score on leaderboard to get the best airdro
+Get the best score on leaderboard to get the best airdr
