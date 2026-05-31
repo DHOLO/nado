@@ -1,2 +1,2 @@
 # nado
-Get the best score on leaderboard to get
+Get the best score on leaderboard
