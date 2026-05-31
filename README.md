@@ -1,2 +1,2 @@
 # nado
-Get the best score on leaderboard to get the bes
+Get the best score on leaderboard to get the
